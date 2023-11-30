@@ -10,7 +10,12 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    "id": "04d392e6-6daa-473d-a828-56cc5a4f8375",
+    "name": "mysolution.w1",
+    "publisher": "Fidesious-BV",
+    "version": "1.0.0.0"
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
