@@ -2,5 +2,6 @@
   "country": "nl",
   "appFolders": [],
   "testFolders": [],
-  "artifact": "https://bcartifacts.azureedge.net/sandbox/22.0.54157.55210/nl"
+  "artifact": "https://bcartifacts.azureedge.net/sandbox/22.0.54157.55210/nl",
+  "repoVersion": "1.1"
 }
